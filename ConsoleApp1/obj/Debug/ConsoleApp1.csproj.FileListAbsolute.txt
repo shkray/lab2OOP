@@ -1,0 +1,15 @@
+C:\Users\student\source\repos\ConsoleApp6\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\student\source\repos\ConsoleApp6\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\student\source\repos\ConsoleApp6\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\student\source\repos\ConsoleApp6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\ConsoleApp6\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\ConsoleApp6\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\student\source\repos\ConsoleApp6\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\cutac\Desktop\Laba2_Lunev\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\cutac\Desktop\Laba2_Lunev\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\cutac\Desktop\Laba2_Lunev\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\cutac\Desktop\Laba2_Lunev\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\cutac\Desktop\Laba2_Lunev\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\cutac\Desktop\Laba2_Lunev\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\cutac\Desktop\Laba2_Lunev\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\cutac\Desktop\Laba2_Lunev\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
